@@ -36,9 +36,6 @@ You can find the original challenge description in the [`chalenge.txt`](extract_
    ```
 
 2. **Navigate to the project folder**:
-   ```bash
-   cd extract_name_from_file
-   ```
 
    -> **Update the var with the directory path in your machine**
 
@@ -107,7 +104,7 @@ O desafio original pode ser consultado no arquivo [`chalenge.txt`](extract_name_
 
 1. **Clone o repositório** (caso ainda não tenha):
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/your-username/your-repo-name.git
    ```
 
 2. **Acesse o diretório do projeto**:
@@ -120,9 +117,7 @@ O desafio original pode ser consultado no arquivo [`chalenge.txt`](extract_name_
 
 4. **Ative o ambiente virtual** (se necessário):
    - Windows:
-     ```bash
-     venv\Scripts\activate
-     ```
+
    - Linux/macOS:
      ```bash
      source venv/bin/activate
