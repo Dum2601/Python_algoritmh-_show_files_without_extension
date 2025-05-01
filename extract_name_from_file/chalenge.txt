@@ -1,0 +1,22 @@
+1. File Name Extraction
+Description:
+You are creating a file management system. Given a set of filenames with extensions, extract only the names (without the extensions).
+
+Input:
+A string with filenames separated by commas: "relatorio.pdf,imagem.png,video.mp4"
+
+Expected Output:
+A list with the file names, without the extensions: ["relatorio", "imagem", "video"]
+
+------------------------------------------------
+
+1. Extração de Nomes de Arquivos
+Descrição:
+Você está criando um sistema de gestão de arquivos. Dado um conjunto de nomes de arquivos com extensões, extraia apenas os nomes (sem a extensão).
+
+Entrada:
+Uma string com nomes de arquivos separados por vírgula: "relatorio.pdf,imagem.png,video.mp4"
+
+Saída Esperada:
+Uma lista com os nomes dos arquivos, sem a extensão: ["relatorio", "imagem", "video"]
+
