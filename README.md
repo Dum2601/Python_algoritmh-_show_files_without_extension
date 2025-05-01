@@ -32,7 +32,7 @@ You can find the original challenge description in the [`chalenge.txt`](extract_
 
 1. **Clone the repository** (if you haven't already):
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   https://github.com/Dum2601/Python_algoritmh-_show_files_without_extension.git
    ```
 
 2. **Navigate to the project folder**:
@@ -104,13 +104,11 @@ O desafio original pode ser consultado no arquivo [`chalenge.txt`](extract_name_
 
 1. **Clone o repositório** (caso ainda não tenha):
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   [git clone https://github.com/your-username/your-repo-name.git](https://github.com/Dum2601/Python_algoritmh-_show_files_without_extension.git)
    ```
 
 2. **Acesse o diretório do projeto**:
-   ```bash
-   cd extract_name_from_file
-   ```
+
    -> **Coloque o caminho da pasta como está em sua máquina na variável**
 
    ![image](https://github.com/user-attachments/assets/6e1aac62-a8ec-4da4-ae95-9a777890e9bf)
