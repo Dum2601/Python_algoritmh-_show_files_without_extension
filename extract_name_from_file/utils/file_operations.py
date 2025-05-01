@@ -3,7 +3,8 @@ import os
 class Files:
     def __init__(self):
 
-        self.directory_path = r'C:\Users\Dum\Documents\Programação\Praticando\Python\Exercícios criados por IA baseado na DIO\extract_name\extract_name_from_file\utils\files_to_be_searched'
+        # Put the dir path below in var ''
+        self.directory_path = r''
 
     def list_files(self):
 
