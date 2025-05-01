@@ -40,6 +40,10 @@ You can find the original challenge description in the [`chalenge.txt`](extract_
    cd extract_name_from_file
    ```
 
+   -> **Update the var with the directory path in your machine**
+
+   ![image](https://github.com/user-attachments/assets/6e1aac62-a8ec-4da4-ae95-9a777890e9bf)
+
 3. **Activate the virtual environment** (if needed):
    - On Windows:
      ```bash
@@ -110,8 +114,11 @@ O desafio original pode ser consultado no arquivo [`chalenge.txt`](extract_name_
    ```bash
    cd extract_name_from_file
    ```
+   -> **Coloque o caminho da pasta como está em sua máquina na variável**
 
-3. **Ative o ambiente virtual** (se necessário):
+   ![image](https://github.com/user-attachments/assets/6e1aac62-a8ec-4da4-ae95-9a777890e9bf)
+
+4. **Ative o ambiente virtual** (se necessário):
    - Windows:
      ```bash
      venv\Scripts\activate
@@ -121,7 +128,7 @@ O desafio original pode ser consultado no arquivo [`chalenge.txt`](extract_name_
      source venv/bin/activate
      ```
 
-4. **Execute o script**:
+5. **Execute o script**:
    - Windows:
      ```bash
      python extract_name_file.py
