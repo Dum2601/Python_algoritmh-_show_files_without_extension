@@ -104,7 +104,7 @@ O desafio original pode ser consultado no arquivo [`chalenge.txt`](extract_name_
 
 1. **Clone o repositório** (caso ainda não tenha):
    ```bash
-   [git clone https://github.com/your-username/your-repo-name.git](https://github.com/Dum2601/Python_algoritmh-_show_files_without_extension.git)
+   https://github.com/Dum2601/Python_algoritmh-_show_files_without_extension.git
    ```
 
 2. **Acesse o diretório do projeto**:
